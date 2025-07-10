@@ -27,5 +27,15 @@ console.log(loggedIn);
 
 //array - "object"
 
-let app = ["apple","banana","guavava"]
-console.log(typeof app)
+// let app = ["apple","banana","guavava"]
+// console.log(typeof app)
+
+//=============================================================
+
+// stack (primitive), Heap(non-Primitive)
+//  primitive value stack ke andr hote hai 
+// stack ke andr  koi value rkhte hai to copy milti hai
+
+// non-primitive value heap ke andr hote hai
+// heap ke andr koi value rkhte hai to refference milti hai 
+
